@@ -2094,6 +2094,7 @@ http://*174.142.105.153
 *://www.facebook.com/*
 *://*.vimeo.com/*
 *://*.w3school.com.cn/*
+*://www.vim.org/*
 
 [regexp]
 ^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?netflix\.com
@@ -3379,6 +3380,4 @@ http://*174.142.105.153
 !^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?youdao\.com
 !^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?zhongsou\.com
 
-#add by jyswkc@126.com
-*://*.vim.org/*
 #END
